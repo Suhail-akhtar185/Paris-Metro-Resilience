@@ -1,5 +1,5 @@
 # Paris Metro Degradation Analysis & GNN Modeling
-Developed By: Suhail Akhtar, Shubham Baishthakur, Dr Nur MM Kalimullah
+Developed By: Suhail Akhtar, Shubham Baishthakur, Dr Nur MM Kalimullah - 
 Trinity College Dublin, Ireland
 > **Note**: This repository contains only the Jupyter notebooks used for exploratory data analysis and modeling, plus the trained GNN model files. All other code (data‐processing scripts, full source modules, raw CSVs, large HTML maps) have been excluded.  
 
